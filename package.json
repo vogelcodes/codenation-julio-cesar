@@ -1,0 +1,27 @@
+{
+  "name": "codenation-julio-cesar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "express": "^4.17.1",
+    "form-data": "^3.0.0",
+    "request": "^2.88.2",
+    "sha1": "^1.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vogelcodes/codenation-julio-cesar.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vogelcodes/codenation-julio-cesar/issues"
+  },
+  "homepage": "https://github.com/vogelcodes/codenation-julio-cesar#readme"
+}
